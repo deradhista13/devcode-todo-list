@@ -1,9 +1,18 @@
 {
-    "name": "devcode-todo-list",
+    "name": "deradhista-devcode-reactjs",
     "version": "1.0.0",
-    "private": true,
-    "engines": {
-        "node": "= 16.x"
+    "description": "deradhista DevCode Frontend ReactJS",
+    "keywords": [
+        "deradhista",
+        "devcode",
+        "reactjs"
+    ],
+    "homepage": "https://github.com/deradhista13/devcode-todo-list",
+    "license": "MIT",
+    "author": "Adhista Dera <deardhista@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/deradhista13/devcode-todo-list"
     },
     "type": "module",
     "scripts": {
